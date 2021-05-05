@@ -1,6 +1,10 @@
-# vscode-beautify
+#
 
-vscode beautify with settings and extensions
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/2182637/53611918-54c1ff80-3c24-11e9-9917-66ac3cef513d.png" alt="vscode beautiffy" />
+</p>
+
+<h1 align="center">vscode-beautify<small><sup> (settings and extensions)</sup></small></h1>
 
 ## Fira Code - Install (for font-family)
 
