@@ -8,7 +8,7 @@
 
 ## Fira Code - Install (for font-family)
 
-> [Fira-Code](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
+> [Fira-Code](https://github.com/tonsky/FiraCode/wiki/Installing)
 
 ## Exentsion installation
 
